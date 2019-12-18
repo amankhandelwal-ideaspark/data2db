@@ -4,7 +4,7 @@ long_description = "The package aims to simplify data transfer between different
 
 setuptools.setup(
     name="data2db", # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Aman Khandelwal",
     author_email="amanpoke@gmail.com",
     description="Data 2 db Migrator",
