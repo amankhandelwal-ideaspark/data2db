@@ -1,2 +1,2 @@
-def load:
-	print('test')
+def load():
+	print('This package is still under construction')
