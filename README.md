@@ -28,11 +28,15 @@ CSV|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_ma
 JSON|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:
 URL|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:
 
+## Installation
+
+    pip install data2db
+
 ## Usage
 
-    import data2db
+    from data2db import Data2db
     
-    d = data2db()
+    d = Data2db.load()
 
 ### Changelog
 
