@@ -26,6 +26,7 @@ MSSQL|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_
 Google BigQuery|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:
 CSV|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:
 JSON|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:
+URL|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:
 
 ## Usage
 
