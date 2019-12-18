@@ -18,6 +18,21 @@ data2db simplifies data transport between multiple source and target destination
 - CSV
 - JSON
 
+## Supported Transitions
+Source\Destination | MySQL | MSSQL | Google BigQuery | CSV | JSON
+-------------------|------|-------|--------------|------|--------
+MySQL|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+MSSQL|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
+Google BigQuery|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:
+CSV|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:
+JSON|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:
+
+## Usage
+
+    import data2db
+    
+    d = data2db()
+
 ### Changelog
 
 v0.0.1
